@@ -4,6 +4,7 @@
 //print_r($_GET);
 //echo '</pre>';
 // arvutusfunktsioonid
+
 function keraRuumala($raadius){
     $ruumala =  4 * pi() * pow($raadius, 2); // 4 pi raadius ruudus
     return round($ruumala, 2); // ümmardame - 2 koma kohta
