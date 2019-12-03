@@ -3,7 +3,6 @@
 ?>
 <h1>Tellimine</h1>
 
-
 <?php
 //serveri andmete kontroll
 //var_dump($_GET);
