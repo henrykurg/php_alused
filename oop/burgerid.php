@@ -1,6 +1,6 @@
 <?php
 
-require_once 'Burger.php';
+require_once 'burger.php';
 require_once 'TervislikBurger.php';
 require_once 'LuxBurger.php';
 

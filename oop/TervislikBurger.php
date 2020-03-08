@@ -1,6 +1,6 @@
 <?php
 
-require_once 'Burger.php';
+require_once 'burger.php';
 class TervislikBurger extends Burger
 {
     // lisandid
